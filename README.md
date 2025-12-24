@@ -98,7 +98,7 @@ graph TD
 
 ```bash
 # 由于官方仓库重名冲突，请使用以下命令从本仓库直接安装
-brew install --cask https://raw.githubusercontent.com/lbjlaq/Antigravity-Manager/main/distribution/homebrew/antigravity.rb
+brew install --cask https://raw.githubusercontent.com/lbjlaq/Antigravity-Manager/main/distribution/homebrew/antigravity-tools.rb
 ```
 # 如果遇到权限问题，建议使用 --no-quarantine
 brew install --cask --no-quarantine antigravity

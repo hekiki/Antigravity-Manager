@@ -98,7 +98,7 @@ If you have [Homebrew](https://brew.sh/) installed, run:
 
 ```bash
 # Due to naming conflicts in the official repo, please install directly using the URL
-brew install --cask https://raw.githubusercontent.com/lbjlaq/Antigravity-Manager/main/distribution/homebrew/antigravity.rb
+brew install --cask https://raw.githubusercontent.com/lbjlaq/Antigravity-Manager/main/distribution/homebrew/antigravity-tools.rb
 # If you encounter permission issues
 brew install --cask --no-quarantine antigravity
 ```
